@@ -1,5 +1,8 @@
 # Hybooru
 
+An edit to Hybooru specifically for a /xivg/-booru style board. To be hosted somewhere...
+
+
 <p align="center">
    <img src="static/logo.svg" width="256"><br/>
    <a href="https://github.com/funmaker/Hybooru/releases/latest"><img src="https://github.com/funmaker/Hybooru/actions/workflows/release_build.yml/badge.svg"></a>
